@@ -1,0 +1,39 @@
+﻿<Window
+    x:Class="RevoErp.Settings.ConnectingSettingsWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:hc="https://handyorg.github.io/handycontrol"
+    xmlns:local="clr-namespace:RevoErp.Settings"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="连接设置"
+    Width="378.951"
+    Height="187.552"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d">
+    <Grid Margin="18">
+        <TextBlock
+            Margin="10,10,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="服务器地址"
+            TextWrapping="Wrap" />
+        <TextBox
+            Width="315"
+            Height="23"
+            Margin="10,38,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="http://api.test.com"
+            TextWrapping="Wrap" />
+        <Button
+            Name="SaveButton"
+            Width="75"
+            Margin="250,82,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="SaveButton_Click"
+            Content="保存"
+            Style="{StaticResource ButtonPrimary}" />
+    </Grid>
+</Window>

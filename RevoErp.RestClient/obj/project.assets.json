@@ -1,0 +1,254 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RestSharp/106.11.3": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net452/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/net452/RestSharp.dll": {}
+        }
+      },
+      "Pluvet.Service.Application/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Pluvet.Service.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pluvet.Service.Application.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RestSharp/106.11.3": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net452/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/net452/RestSharp.dll": {}
+        }
+      },
+      "Pluvet.Service.Application/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Pluvet.Service.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pluvet.Service.Application.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x64": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RestSharp/106.11.3": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net452/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/net452/RestSharp.dll": {}
+        }
+      },
+      "Pluvet.Service.Application/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Pluvet.Service.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pluvet.Service.Application.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x86": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RestSharp/106.11.3": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net452/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/net452/RestSharp.dll": {}
+        }
+      },
+      "Pluvet.Service.Application/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Pluvet.Service.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pluvet.Service.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "RestSharp/106.11.3": {
+      "sha512": "hAKX337X6lpi9TsdHUMNIJf7wjh+l37q8I2/vvAYgQqBhfDIzAfP4FqpM52VgL518EsRU2WJnu7JEDJdwJz0Hg==",
+      "type": "package",
+      "path": "restsharp/106.11.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/RestSharp.dll",
+        "lib/net452/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.106.11.3.nupkg.sha512",
+        "restsharp.nuspec",
+        "restsharp.png"
+      ]
+    },
+    "Pluvet.Service.Application/1.0.0": {
+      "type": "project",
+      "path": "../Pluvet.Service.Application/Pluvet.Service.Application.csproj",
+      "msbuildProject": "../Pluvet.Service.Application/Pluvet.Service.Application.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7": [
+      "Newtonsoft.Json >= 12.0.3",
+      "Pluvet.Service.Application >= 1.0.0",
+      "RestSharp >= 106.11.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pluveto\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\RevoErp.RestClient\\RevoErp.RestClient.csproj",
+      "projectName": "RevoErp.RestClient",
+      "projectPath": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\RevoErp.RestClient\\RevoErp.RestClient.csproj",
+      "packagesPath": "C:\\Users\\pluveto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\RevoErp.RestClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\pluveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net47"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net47": {
+          "projectReferences": {
+            "C:\\Users\\pluveto\\source\\repos\\RevoErp\\Pluvet.Service.Application\\Pluvet.Service.Application.csproj": {
+              "projectPath": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\Pluvet.Service.Application\\Pluvet.Service.Application.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net47": {
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          },
+          "RestSharp": {
+            "target": "Package",
+            "version": "[106.11.3, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,323 @@
+[17:37:11.981] Info: Sign: Bear -1>>S3TLPPUGNJc6hNTjqUr5Q5txzYf5rs1X6wRfZ1nByac=
+[17:57:56.354] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[17:59:32.517] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:00:04.187] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:04:05.451] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:04:11.789] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:12:37.548] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:19:37.506] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:24:17.044] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:25:10.752] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:28:46.795] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:30:32.491] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:37:45.650] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:38:54.980] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:38:55.445] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:38:55.946] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:39:44.840] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:41:43.569] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:42:49.028] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员"]
+                      }]
+[18:43:00.862] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员","管理员"]
+                      }]
+[18:45:05.240] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员","管理员"]
+                      }]
+[18:46:06.092] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员","管理员"]
+                      }]
+[21:33:59.825] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员","管理员"]
+                      }]
+[23:17:35.694] Debug: [{
+                        "id": 1,
+                        "customId": "01001",
+                        "screenName": "小明",
+                        "username": "xiaoming",
+                        "tags": ["管理员"]
+                      },
+                      {
+                        "id": 2,
+                        "customId": "01002",
+                        "screenName": "张三",
+                        "username": "zhangsan",
+                        "tags": ["业务员","管理员"]
+                      }]

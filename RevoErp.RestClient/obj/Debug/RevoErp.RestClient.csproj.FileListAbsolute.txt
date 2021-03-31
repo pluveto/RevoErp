@@ -1,0 +1,11 @@
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\obj\Debug\RevoErp.RestClient.csproj.CoreCompileInputs.cache
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\bin\Debug\RevoErp.RestClient.dll
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\bin\Debug\RevoErp.RestClient.pdb
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\obj\Debug\RevoErp.RestClient.csprojAssemblyReference.cache
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\obj\Debug\RevoErp.RestClient.csproj.CopyComplete
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\obj\Debug\RevoErp.RestClient.dll
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\obj\Debug\RevoErp.RestClient.pdb
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\bin\Debug\Pluvet.Service.Application.dll
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\bin\Debug\Pluvet.Service.Application.pdb
+C:\Users\pluveto\source\repos\RevoErp\RevoErp.RestClient\bin\Debug\RestSharp.dll

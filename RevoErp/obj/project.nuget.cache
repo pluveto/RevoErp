@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WD3KDrHULch4W75ABv2fEn5dgWVLV8OauIJLYZCUqqVsf6PP/Jm0e7BRKQTcARo/MOnXR830mM9AmPDV1Xt4rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\RevoErp\\RevoErp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pluveto\\.nuget\\packages\\commonservicelocator\\2.0.2\\commonservicelocator.2.0.2.nupkg.sha512",
+    "C:\\Users\\pluveto\\.nuget\\packages\\handycontrol\\2.4.0\\handycontrol.2.4.0.nupkg.sha512",
+    "C:\\Users\\pluveto\\.nuget\\packages\\mahapps.metro.iconpacks.boxicons\\4.1.0\\mahapps.metro.iconpacks.boxicons.4.1.0.nupkg.sha512",
+    "C:\\Users\\pluveto\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\pluveto\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\pluveto\\.nuget\\packages\\restsharp\\106.11.3\\restsharp.106.11.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Users\pluveto\source\repos\RevoErp\Pluvet.Service.Application\obj\Debug\Pluvet.Service.Application.csprojAssemblyReference.cache
+C:\Users\pluveto\source\repos\RevoErp\Pluvet.Service.Application\obj\Debug\Pluvet.Service.Application.csproj.CoreCompileInputs.cache
+C:\Users\pluveto\source\repos\RevoErp\Pluvet.Service.Application\bin\Debug\Pluvet.Service.Application.dll
+C:\Users\pluveto\source\repos\RevoErp\Pluvet.Service.Application\bin\Debug\Pluvet.Service.Application.pdb
+C:\Users\pluveto\source\repos\RevoErp\Pluvet.Service.Application\obj\Debug\Pluvet.Service.Application.dll
+C:\Users\pluveto\source\repos\RevoErp\Pluvet.Service.Application\obj\Debug\Pluvet.Service.Application.pdb

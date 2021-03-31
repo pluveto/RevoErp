@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pluveto\\source\\repos\\RevoErp\\RevoErp.RestClient\\RevoErp.RestClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pluveto\\source\\repos\\RevoErp\\Pluvet.Service.Application\\Pluvet.Service.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\Pluvet.Service.Application\\Pluvet.Service.Application.csproj",
+        "projectName": "Pluvet.Service.Application",
+        "projectPath": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\Pluvet.Service.Application\\Pluvet.Service.Application.csproj"
+      },
+      "frameworks": {
+        "net47": {}
+      }
+    },
+    "C:\\Users\\pluveto\\source\\repos\\RevoErp\\RevoErp.RestClient\\RevoErp.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\RevoErp.RestClient\\RevoErp.RestClient.csproj",
+        "projectName": "RevoErp.RestClient",
+        "projectPath": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\RevoErp.RestClient\\RevoErp.RestClient.csproj",
+        "packagesPath": "C:\\Users\\pluveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\RevoErp.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\pluveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net47"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net47": {
+            "projectReferences": {
+              "C:\\Users\\pluveto\\source\\repos\\RevoErp\\Pluvet.Service.Application\\Pluvet.Service.Application.csproj": {
+                "projectPath": "C:\\Users\\pluveto\\source\\repos\\RevoErp\\Pluvet.Service.Application\\Pluvet.Service.Application.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

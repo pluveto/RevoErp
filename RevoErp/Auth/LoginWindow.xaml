@@ -1,0 +1,58 @@
+﻿<Window
+    x:Class="RevoErp.Auth.LoginWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:hc="https://handyorg.github.io/handycontrol"
+    xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+    xmlns:local="clr-namespace:RevoErp.Auth"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="登录"
+    Width="352.517"
+    Height="210.839"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d">
+    <Grid Margin="18">
+        <TextBlock
+            Margin="10,17,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="用户名"
+            TextWrapping="Wrap" />
+        <TextBox
+            Margin="59,10,13,0"
+            VerticalAlignment="Top"
+            Text="admin"
+            TextWrapping="Wrap" />
+        <TextBlock
+            Margin="10,66,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="密码"
+            TextWrapping="Wrap" />
+        <hc:PasswordBox
+            Margin="59,59,13,0"
+            VerticalAlignment="Top"
+            Password="admin" />
+        <Button
+            Name="LoginButton"
+            Width="75"
+            Margin="0,0,13,10"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            Click="LoginButton_Click"
+            Content="登录"
+            Style="{StaticResource ButtonPrimary}" />
+        <Button
+            Name="SettingButton"
+            Width="50"
+            Margin="0,0,93,10"
+            Padding="8"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            hc:IconElement.Geometry="{StaticResource Settings}"
+            Click="SettingButton_Click"
+            Foreground="{DynamicResource PrimaryTextBrush}"
+            Style="{StaticResource ButtonIcon}" />
+    </Grid>
+</Window>
